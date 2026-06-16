@@ -1,0 +1,19 @@
+body {
+    background: rgb(7, 7, 63);
+    color: white;
+}
+
+
+.principal {
+    text-align: center;
+}
+
+
+.sobre {
+    text-align: center;
+    margin-top: 8%;
+}
+#cps {
+    text-align: center;
+    border-radius: 100%; 
+}
